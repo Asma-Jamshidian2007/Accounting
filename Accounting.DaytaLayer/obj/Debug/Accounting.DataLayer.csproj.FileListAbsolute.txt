@@ -1,0 +1,28 @@
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.xml
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.dll.config
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.pdb
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.pdb
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.FrmAddOrEditCustomer.resources
+E:\Development\CSharp_Work Samples\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.GenerateResource.cache
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.dll.config
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.dll
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.DataLayer.pdb
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.dll
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.xml
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\C#\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+E:\Development\C#\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+E:\Development\C#\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+E:\Development\C#\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.dll
+E:\Development\C#\Accounting\Accounting.DaytaLayer\obj\Debug\Accounting.DataLayer.pdb
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.ViewModels.dll
+E:\Development\C#\Accounting\Accounting.DaytaLayer\bin\Debug\Accounting.ViewModels.pdb

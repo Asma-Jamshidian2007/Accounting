@@ -1,0 +1,12 @@
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+E:\Development\C#\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\Development\C#\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\Development\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+E:\Development\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+E:\Development\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\Development\C#\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

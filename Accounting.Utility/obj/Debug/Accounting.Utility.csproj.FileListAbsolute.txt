@@ -1,0 +1,12 @@
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+E:\Development\CSharp_Work Samples\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+E:\Development\C#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+E:\Development\C#\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+E:\Development\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+E:\Development\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+E:\Development\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+E:\Development\C#\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
